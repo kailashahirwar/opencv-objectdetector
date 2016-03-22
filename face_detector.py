@@ -1,7 +1,7 @@
 import cv2
 
 '''
-Face Detector
+Face Detector: Detects faces in a image
 classifier: haarcascade_frontalface_default.xml from OpenCV library
 '''
 

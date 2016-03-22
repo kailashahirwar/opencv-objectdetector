@@ -1,3 +1,4 @@
-Object Detector implemented in python using OpenCV
+Object Detection using OpenCV and Python
 
-1. Face Detector which uses haarcascade_frontalface_default.xml classifier from OpenCV library
+1. 	Face Detector: Detects faces in a image
+	Classifier: haarcascade_frontalface_default.xml classifier from OpenCV library
